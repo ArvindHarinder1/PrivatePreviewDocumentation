@@ -73,7 +73,7 @@ We are targeting transitioning to public preview within the next three months (p
 
   
 
- You can reach out to Arvind Harinder (arvinh@microsoft.com) with questions. 
+ You can reach out to provisioningfeedback@microsoft.com with questions. 
 
    
 
