@@ -24,11 +24,11 @@ Using this preview requires that
 
 ## How to access the preview? 
 
-Go to the following link - Aka.ms/ProvisionPP  
+Go to the following link
 
-The link will take you to the Azure Portal with the following flag appended to the URL  
+          Aka.ms/ProvisionPP 
 
-          ?feature.perObjectSync=true  
+The link will take you to the Azure Portal with the flag "feature.perObjectSync=true" appended
 
 1) Select the application that you would like to provision a user to or create a new application  
 
