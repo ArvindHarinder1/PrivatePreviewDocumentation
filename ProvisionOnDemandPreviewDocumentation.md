@@ -48,31 +48,32 @@ Select a user and click provision
 
    
 
-Frequently asked questions  
+## Frequently asked questions  
 
-Will this work for Workday?  
+**Will this work for Workday?**
 
 Not today, but we’re working on supporting it. 
 
   
 
-Will this work for provisioning groups? 
+**Will this work for provisioning groups? **
 
 Not today, but we’re working on supporting it.   
 
   
 
-Can I deprovision a user on demand?  
+**Can I deprovision a user on demand?**
 
 Not today, but we’re working on supporting it. 
 
   
 
-Can a customer use this capability in production?  
+**Can a customer use this capability in production?**
 
 Yes this private preview can be used in production.  
 
-Time to next milestone?  
+
+**Time to next milestone?**
 
 We are targeting transitioning to public preview within the next three months (pending a successful private preview).  
 
