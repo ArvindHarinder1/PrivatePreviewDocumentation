@@ -1,8 +1,6 @@
 # Private Preview: Provision On-Demand 
 
-What can you do with this preview? 
-
-- This preview will enable you to provision a user to a SaaS app on demand. No need to wait for the next provisioning cycle.  
+This preview will enable you to provision a user to a SaaS app on demand. No need to wait for the next provisioning cycle.  
 
   
 
