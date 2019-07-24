@@ -30,23 +30,15 @@ The link will take you to the Azure Portal with the following flag appended to t
 
           ?feature.perObjectSync=true  
 
-Select the application that you would like to provision a user to or create a new application  
+1) Select the application that you would like to provision a user to or create a new application  
 
-Go to the provisioning page for the application 
+2) Go to the provisioning page for the application 
 
-Click on the validate provisioning button 
+3) Click on the validate provisioning button 
 
-Select a user and click provision  
-
-  
+4) Select a user and click provision  
 
  
-
-  
-
-  
-
-   
 
 ## Frequently asked questions  
 
