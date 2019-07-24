@@ -2,7 +2,7 @@
 
 What can you do with this preview? 
 
-- This preview will enable you to provision a user to a SaaS app on demand. No need to wait for the next sync cycle.  
+- This preview will enable you to provision a user to a SaaS app on demand. No need to wait for the next provisioning cycle.  
 
   
 
@@ -76,10 +76,6 @@ We are targeting transitioning to public preview within the next three months (p
  You can reach out to provisioningfeedback@microsoft.com with questions. 
 
    
-
-Thanks, 
-
-Arvind  
 
   
 
