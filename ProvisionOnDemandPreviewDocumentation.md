@@ -1,28 +1,28 @@
-Private Preview: Provision On-Demand 
+# Private Preview: Provision On-Demand 
 
 What can you do with this preview? 
 
-This preview will enable you to provision a user to a SaaS app on demand. No need to wait for the next sync cycle.  
+- This preview will enable you to provision a user to a SaaS app on demand. No need to wait for the next sync cycle.  
 
   
 
-Pre-requisites  
+## Pre-requisites  
 
 Using this preview requires that 
 
-You have setup (or are willing to setup) provisioning to a SaaS app (excluding Workday, GSuite, Box, AWS) 
+- You have setup (or are willing to setup) provisioning to a SaaS app (excluding Workday, GSuite, Box, AWS) 
 
-You have one of the following roles in your Azure AD tenant 
+- You have one of the following roles in your Azure AD tenant 
 
-Global Administrator 
+  - Global Administrator 
 
-Application Administrator 
+  - Application Administrator 
 
-Cloud Application Administrator 
+  - Cloud Application Administrator 
 
    
 
-How to access the preview? 
+## How to access the preview? 
 
 Go to the following link - Aka.ms/ProvisionPP  
 
