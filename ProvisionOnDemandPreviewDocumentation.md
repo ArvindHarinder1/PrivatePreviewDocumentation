@@ -6,7 +6,7 @@ This preview will enable you to provision a user to a SaaS app on demand. No nee
 
 ## Pre-requisites  
 
-Using this preview requires that 
+Using this preview requires that: 
 
 - You have setup (or are willing to setup) provisioning to a SaaS app (excluding Workday, GSuite, Box, AWS) 
 
@@ -46,7 +46,7 @@ Not today, but we’re working on supporting it.
 
   
 
-**Will this work for provisioning groups? **
+**Will this work for provisioning groups?**
 
 Not today, but we’re working on supporting it.   
 
