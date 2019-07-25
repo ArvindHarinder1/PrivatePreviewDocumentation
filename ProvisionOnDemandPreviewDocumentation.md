@@ -24,7 +24,7 @@ Using this preview requires that:
 
 Go to the following link
 
-          Aka.ms/ProvisionPP 
+          Aka.ms/ProvisionOnDemand
 
 The link will take you to the Azure Portal with the flag "feature.perObjectSync=true" appended
 
@@ -32,7 +32,7 @@ The link will take you to the Azure Portal with the flag "feature.perObjectSync=
 
 2) Go to the provisioning page for the application 
 
-3) Click on the validate provisioning button 
+3) Click on the "Provsion a user" button 
 
 4) Select a user and click provision  
 
@@ -55,7 +55,6 @@ Not today, but we’re working on supporting it.
 **Can I deprovision a user on demand?**
 
 Not today, but we’re working on supporting it. 
-
   
 
 **Can a customer use this capability in production?**
