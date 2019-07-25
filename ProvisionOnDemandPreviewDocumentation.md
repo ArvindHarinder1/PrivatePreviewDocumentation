@@ -24,7 +24,7 @@ Using this preview requires that:
 
 Go to the following link
 
-          Aka.ms/ProvisionOnDemand
+          https://aka.ms/ProvisionOnDemand
 
 The link will take you to the Azure Portal with the flag "feature.perObjectSync=true" appended
 
