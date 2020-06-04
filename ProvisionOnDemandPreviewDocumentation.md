@@ -32,9 +32,11 @@ The link will take you to the Azure Portal with the flag "feature.perObjectSync=
 
 2) Go to the provisioning page for the application 
 
-3) Click on the validate provisioning button 
+3) Click edit provisioning
 
-4) Select a user and click provision  
+4) Click on the validate provisioning button 
+
+5) Select a user and click provision  
 
  
 
